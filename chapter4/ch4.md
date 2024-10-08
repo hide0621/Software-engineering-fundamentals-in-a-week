@@ -29,6 +29,10 @@
 
 - MVC...ViewがUI(出力)、ユーザーからのアクセスを受けつけて(入力)、ユースケースごとに振り分けるハンドラーの役割のController、ユースケースを実行したり、その処理結果をDBに反映させる(処理する)Model、その結果がControllerに返ってきて、それがViewに反映される(出力)設計 
 
+詳しくは[こちら](https://appmaster.io/ja/blog/akitekuchiya-patan-mvc-mvp-oyobi-mvvm)
+
+Flutterベースだと[こちら](https://zenn.dev/flutteruniv/books/flutter-architecture/viewer/3_mvvm)
+
 - 排他制御...ある処理(トランザクション)がDBに走っている間は他の処理は走れないようにすること 
 
 - 楽観ロック...誰かの更新系の処理が走っている間でも自分の更新系の処理は出来るが、それをコミットする際は誰かの更新系の処理がコミットされていないことが条件になる 
