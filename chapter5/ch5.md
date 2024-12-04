@@ -54,3 +54,5 @@
     - 類似する言葉に「ユースケース」や「サービス」がある。これら3つの概念の意味とそのニュアンスの違いは[「ビジネスロジック」とは何か、どう実装するのか](https://qiita.com/os1ma/items/25725edfe3c2af93d735)と言う記事がわかりやすい
 
     - また、[Googleが提唱するアプリケーションのアーキテクチャモデル](https://developer.android.com/topic/architecture/data-layer?hl=ja)に関する記事も参照する
+
+        - Flutterでのアーキテクチャについては[Flutterエンジニアのためのアーキテクチャ入門 - 公式(日本語)](https://zenn.dev/mk668a/articles/bbfb97a0d146bc)と言う記事がわかりやすい
