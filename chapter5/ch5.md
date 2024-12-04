@@ -55,4 +55,8 @@
 
     - また、[Googleが提唱するアプリケーションのアーキテクチャモデル](https://developer.android.com/topic/architecture/data-layer?hl=ja)に関する記事も参照する
 
-        - Flutterでのアーキテクチャについては[Flutterエンジニアのためのアーキテクチャ入門 - 公式(日本語)](https://zenn.dev/mk668a/articles/bbfb97a0d146bc)と言う記事がわかりやすい
+        - Flutterでのアーキテクチャについては以下の記事がわかりやすい
+        
+        - [Flutterエンジニアのためのアーキテクチャ入門 - 公式(日本語)](https://zenn.dev/mk668a/articles/bbfb97a0d146bc)
+
+        - [Flutterのアーキテクチャ、プロジェクト構成、フォルダ構成はどうすればいいのか](https://qiita.com/MLLB/items/95617322a7d984b7e402)
