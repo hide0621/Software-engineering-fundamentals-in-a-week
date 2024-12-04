@@ -64,3 +64,5 @@
             - プレゼンテーション層の構成については以下の記事がわかりやすい
 
             - [Building scalable Flutter apps (Architecture, Styling, Conventions, State management)](https://dev.to/noureldinshobier/building-scalable-flutter-apps-architecture-styling-conventions-state-management-40c9)
+
+            - [FlutterアプリのPresentation層構成方針](https://zenn.dev/altive/articles/flutter-presentation-directory)
