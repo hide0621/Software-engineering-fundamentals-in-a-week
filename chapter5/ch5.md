@@ -60,3 +60,7 @@
         - [Flutterエンジニアのためのアーキテクチャ入門 - 公式(日本語)](https://zenn.dev/mk668a/articles/bbfb97a0d146bc)
 
         - [Flutterのアーキテクチャ、プロジェクト構成、フォルダ構成はどうすればいいのか](https://qiita.com/MLLB/items/95617322a7d984b7e402)
+
+            - プレゼンテーション層の構成については以下の記事がわかりやすい
+
+            - [Building scalable Flutter apps (Architecture, Styling, Conventions, State management)](https://dev.to/noureldinshobier/building-scalable-flutter-apps-architecture-styling-conventions-state-management-40c9)
