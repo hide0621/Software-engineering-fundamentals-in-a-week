@@ -69,3 +69,5 @@
             - [Building scalable Flutter apps (Architecture, Styling, Conventions, State management)](https://dev.to/noureldinshobier/building-scalable-flutter-apps-architecture-styling-conventions-state-management-40c9)
 
             - [FlutterアプリのPresentation層構成方針](https://zenn.dev/altive/articles/flutter-presentation-directory)
+
+- アルゴリズム...問題解決の手段や経路、算出方法のこと。現実世界で言うなら、目的地にカーナビで向うとして、『費用は掛かってもいいから早くつきたいのか』『時間はかかってもいいから安くつきたいのか』、はたまた『費用をかけるとして、それは高速代だけなのか、それとも高速代もフェリー代もなのか』といった具合で色々な課題解決方法があるみたいなこと 
