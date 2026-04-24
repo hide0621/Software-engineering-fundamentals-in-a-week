@@ -6,7 +6,7 @@ https://engineer-shukatu.jp/column/archives/43249
 * ユーザー系SIer...SCSKやソフトバンク、新日鉄やさくら情報システムなどの**非パソコンメーカー系IT企業の情報システム部門から独立**して出来たSIer。**元請け**になりやすく、メーカー系と同様な実態。
 https://engineer-shukatu.jp/column/archives/43249
 
-* 独立系SIer...富士ソフトやTIS、トランスコスモスなど、**親会社をもたず独自経営でシステム開発**をしているSIer。中流ないし下流の工程を行う傾向にある。
+* 独立系SIer...富士ソフトやTIS、トランスコスモスなど、**親会社をもたず独自経営でシステム開発**をしているSIer。**中流ないし下流の工程**を行う傾向にある。
 https://engineer-shukatu.jp/column/archives/43249
 
 * 請負契約...SIerに開発を依頼する際によく採用される契約スタイル。
